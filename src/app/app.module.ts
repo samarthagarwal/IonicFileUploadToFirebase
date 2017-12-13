@@ -12,12 +12,12 @@ import { HomePage } from '../pages/home/home';
 import firebase from 'firebase';
 
 let config = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: ""
+  apiKey: "AIzaSyAERCYk8jJIlVzm2myd1BE-93kLWQ_edBo",
+  authDomain: "fir-loginionic2.firebaseapp.com",
+  databaseURL: "https://fir-loginionic2.firebaseio.com",
+  projectId: "fir-loginionic2",
+  storageBucket: "fir-loginionic2.appspot.com",
+  messagingSenderId: "606024334887"
 };
 firebase.initializeApp(config);
 
